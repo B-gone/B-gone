@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B-gone
-- 👀 I’m interested in Machine learning, Deep learning, Business, Fincance and Art
+- 👀 I’m interested in Machine learning, Deep learning, Business, Finance and Art
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email - bearlybgone@gmail.com
